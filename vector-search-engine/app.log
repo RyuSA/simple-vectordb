@@ -1,0 +1,7 @@
+__  ____  __  _____   ___  __ ____  ______ 
+ --/ __ \/ / / / _ | / _ \/ //_/ / / / __/ 
+ -/ /_/ / /_/ / __ |/ , _/ ,< / /_/ /\ \   
+--\___\_\____/_/ |_/_/|_/_/|_|\____/___/   
+14:59:26 INFO  [io.quarkus] (main) vector-search-engine 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.8.6) started in 0.899s. Listening on: http://0.0.0.0:53150
+14:59:26 INFO  [io.quarkus] (main) Profile prod activated. 
+14:59:26 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy-reactive, resteasy-reactive-jackson, smallrye-context-propagation, vertx]
